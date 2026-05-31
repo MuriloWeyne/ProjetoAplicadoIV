@@ -17,6 +17,10 @@
 
 Veja as [instruções](https://github.com/scalabrinig/cdProjetoAplicadoIV/blob/master/projeto/cd_projeto_aplicado_IV.ipynb) para a elaboração do projeto
 
+**Vídeo da etapa 4**
+
+https://youtu.be/pR5CWBaXfJQ
+
 
 **Cronograma de entregas**:
 
